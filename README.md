@@ -1,4 +1,4 @@
 # tutorial01
 git
 nama:winnn
-warna suka biru
+warna suka biru dan hijau
